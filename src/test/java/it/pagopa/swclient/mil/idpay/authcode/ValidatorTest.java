@@ -21,6 +21,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  * 
+ * @author Antonio Tarricone
  */
 class ValidatorTest {
 	/**

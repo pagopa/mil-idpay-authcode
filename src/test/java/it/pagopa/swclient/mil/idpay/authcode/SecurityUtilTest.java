@@ -18,9 +18,9 @@ import org.junit.jupiter.api.Test;
 
 /**
  * 
+ * @author Antonio Tarricone
  */
 class SecurityUtilTest {
-
 	/**
 	 * Test method for {@link it.pagopa.swclient.mil.idpay.authcode.SecurityUtil#generateRnd()}.
 	 * 
