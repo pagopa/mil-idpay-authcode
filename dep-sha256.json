@@ -1,0 +1,102 @@
+{
+  "dependencies": [
+    {
+      "id": "org.projectlombok:lombok:jar:1.18.28",
+      "artifactId": "lombok",
+      "groupId": "org.projectlombok",
+      "version": "1.18.28",
+      "sha256": "t3TcT8pUMiXYtejBY360E8Q2Oy5hPpUiJ3b3kqjOwOA="
+    },
+    {
+      "id": "org.junit.jupiter:junit-jupiter:jar:5.9.3",
+      "artifactId": "junit-jupiter",
+      "groupId": "org.junit.jupiter",
+      "version": "5.9.3",
+      "sha256": "Zy4XmLfVM3i_QIy2NPyFbP78F9dB5V8m1ohjg4Y-IYo="
+    },
+    {
+      "id": "org.junit.jupiter:junit-jupiter-api:jar:5.9.3",
+      "artifactId": "junit-jupiter-api",
+      "groupId": "org.junit.jupiter",
+      "version": "5.9.3",
+      "sha256": "2JXj7t9PobEN4xqRvlWjAbswe_GO8yWz-l2z-A7pLRw="
+    },
+    {
+      "id": "org.opentest4j:opentest4j:jar:1.2.0",
+      "artifactId": "opentest4j",
+      "groupId": "org.opentest4j",
+      "version": "1.2.0",
+      "sha256": "WIEt5giY2Xb7ge87YtoFxmBMGP1KJJ9QRCgkefwoavI="
+    },
+    {
+      "id": "org.junit.platform:junit-platform-commons:jar:1.9.3",
+      "artifactId": "junit-platform-commons",
+      "groupId": "org.junit.platform",
+      "version": "1.9.3",
+      "sha256": "hRkVffgTwhDoX8FBS3QQnj2F9D1wklY-1wTEPEjw1eY="
+    },
+    {
+      "id": "org.apiguardian:apiguardian-api:jar:1.1.2",
+      "artifactId": "apiguardian-api",
+      "groupId": "org.apiguardian",
+      "version": "1.1.2",
+      "sha256": "tQlEisUG1gcxnxglN_CzXXEAdYLsdBgyofER5bW3Czg="
+    },
+    {
+      "id": "org.junit.jupiter:junit-jupiter-params:jar:5.9.3",
+      "artifactId": "junit-jupiter-params",
+      "groupId": "org.junit.jupiter",
+      "version": "5.9.3",
+      "sha256": "KvKC_pHlZJXAO4TpyucC6qIS_C9qMf2deeMcy2TNgf0="
+    },
+    {
+      "id": "org.junit.jupiter:junit-jupiter-engine:jar:5.9.3",
+      "artifactId": "junit-jupiter-engine",
+      "groupId": "org.junit.jupiter",
+      "version": "5.9.3",
+      "sha256": "tV4wSxzS6PEWwat3pdw-yoxNm0amnghLY6ylHN61Xw8="
+    },
+    {
+      "id": "org.junit.platform:junit-platform-engine:jar:1.9.3",
+      "artifactId": "junit-platform-engine",
+      "groupId": "org.junit.platform",
+      "version": "1.9.3",
+      "sha256": "DDlVPZoDUQdXIn9aHGzGUwKHsaMh7WJYRQZkh0qioWo="
+    },
+    {
+      "id": "org.mockito:mockito-core:jar:5.4.0",
+      "artifactId": "mockito-core",
+      "groupId": "org.mockito",
+      "version": "5.4.0",
+      "sha256": "sWibBmF-oB_Xd7-u293lEvrwg9Y5oEn3mziNWk6W0uU="
+    },
+    {
+      "id": "net.bytebuddy:byte-buddy:jar:1.14.5",
+      "artifactId": "byte-buddy",
+      "groupId": "net.bytebuddy",
+      "version": "1.14.5",
+      "sha256": "6ZdhpSbfD--70_4UQ2sPlTAAzfpRUdxjwLGNN9nEbxw="
+    },
+    {
+      "id": "net.bytebuddy:byte-buddy-agent:jar:1.14.5",
+      "artifactId": "byte-buddy-agent",
+      "groupId": "net.bytebuddy",
+      "version": "1.14.5",
+      "sha256": "VfGYYrhw9dhYkLpThrG0Xpu8iNX-H4Gavgx4i0kp-ms="
+    },
+    {
+      "id": "org.objenesis:objenesis:jar:3.3",
+      "artifactId": "objenesis",
+      "groupId": "org.objenesis",
+      "version": "3.3",
+      "sha256": "At_QsEOaVZHjW3CO0vVHTrCUj1Or90Y36Vm45O9pv-s="
+    },
+    {
+      "id": "org.mockito:mockito-junit-jupiter:jar:5.4.0",
+      "artifactId": "mockito-junit-jupiter",
+      "groupId": "org.mockito",
+      "version": "5.4.0",
+      "sha256": "_nows_Nnm3kio5yFrsuysGpvgFL0XQFKDlVuSBjWD4I="
+    }
+  ]
+}
