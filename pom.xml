@@ -5,7 +5,7 @@
 
 	<groupId>it.pagopa.swclient.mil</groupId>
 	<artifactId>idpay-authcode</artifactId>
-	<version>0.0.0</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<description>This library handles the Authorization Code for IDPay in the
