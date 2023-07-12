@@ -38,6 +38,7 @@ import org.mockito.MockedStatic;
 
 /**
  * 
+ * @author Antonio Tarricone
  */
 class AuthCodeBlockTest {
 	/*
